@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+这是用来记录我学python的日志博客
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+无可奉告
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+laodewang521@126.com
